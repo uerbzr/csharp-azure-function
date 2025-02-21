@@ -1,1 +1,1 @@
-# csharp-azure-function
+# Simple C# Azure Functon Example
